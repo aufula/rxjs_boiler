@@ -20,22 +20,8 @@ Install dependencies (Webpack, Babel, RxJS 5, jQuery)
 $ npm install
 ```
 
-### Compile
+### Compile & run
 To compile all js to dist/app.bundle.js
-
-```sh
-$ webpack
-```
-To watch run
-```sh
-$ webpack -w
-```
-
-### Run
-Install live-server globally
-```sh
-$ npm install live-server -g
-```
 
 ```sh
 $ npm start
